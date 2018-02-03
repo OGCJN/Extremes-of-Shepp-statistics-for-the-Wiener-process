@@ -22,3 +22,6 @@ Zholud, D. (2008). [**Extremes of Shepp statistics for the Wiener process**](htt
   Pages = {339--351}
 }
 ``` 
+
+---
+Update 2018
